@@ -1,0 +1,6 @@
+{
+    "name": "Testing Token",
+    "symbol": "RobertJG",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://github.com/RobertGrospitch/solanatesting/blob/main/Icon_Bird_512x512.png?raw=true"
+}
